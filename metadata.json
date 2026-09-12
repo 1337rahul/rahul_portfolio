@@ -1,0 +1,6 @@
+{
+  "name": "Rahul Bevinagidad Portfolio",
+  "description": "Premium cinematic portfolio website for Rahul Bevinagidad, structural engineer and generative AI product developer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

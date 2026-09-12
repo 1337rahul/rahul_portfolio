@@ -130,7 +130,7 @@ export default function App() {
           -------------------------------------------------- */}
       <section
         id="about"
-        className="bg-black py-24 lg:py-32 px-6 md:px-12 lg:px-16"
+        className="bg-black py-16 lg:py-24 px-6 md:px-12 lg:px-16"
       >
         <div className="max-w-7xl mx-auto lg:grid lg:grid-cols-2 gap-16 items-start">
           {/* Left Column: Heading and Label */}
@@ -171,7 +171,7 @@ export default function App() {
           -------------------------------------------------- */}
       <section
         id="career"
-        className="bg-[#060607] py-24 px-6 md:px-12 lg:px-16 border-t border-white/5"
+        className="bg-[#060607] py-16 lg:py-24 px-6 md:px-12 lg:px-16 border-t border-white/5"
       >
         <div className="max-w-7xl mx-auto">
           {/* Section Header */}
@@ -243,7 +243,7 @@ export default function App() {
           -------------------------------------------------- */}
       <section
         id="work"
-        className="bg-[#080808] py-24 px-6 md:px-12 lg:px-16 border-t border-white/5"
+        className="bg-[#080808] py-16 lg:py-24 px-6 md:px-12 lg:px-16 border-t border-white/5"
       >
         <div className="max-w-7xl mx-auto">
           {/* Header */}
@@ -371,7 +371,7 @@ export default function App() {
           -------------------------------------------------- */}
       <section
         id="academic"
-        className="bg-[#050506] py-24 px-6 md:px-12 lg:px-16 border-t border-white/5"
+        className="bg-[#050506] py-16 lg:py-24 px-6 md:px-12 lg:px-16 border-t border-white/5"
       >
         <div className="max-w-7xl mx-auto">
           {/* Header */}
@@ -497,7 +497,7 @@ export default function App() {
           -------------------------------------------------- */}
       <section
         id="skills"
-        className="bg-black py-24 px-6 md:px-12 lg:px-16 border-t border-white/5"
+        className="bg-black py-16 lg:py-24 px-6 md:px-12 lg:px-16 border-t border-white/5"
       >
         <div className="max-w-7xl mx-auto">
           {/* Header */}
@@ -557,7 +557,7 @@ export default function App() {
           -------------------------------------------------- */}
       <section
         id="contact"
-          className="bg-black py-32 px-6 md:px-12 lg:px-16 min-height-[60vh] flex items-center justify-center border-t border-white/5"
+          className="bg-black py-20 lg:py-28 px-6 md:px-12 lg:px-16 min-height-[60vh] flex items-center justify-center border-t border-white/5"
         >
           <div className="max-w-4xl mx-auto text-center">
             <FadeIn duration={800}>

@@ -70,7 +70,7 @@ export default function Navbar({ onSectionClick }: NavbarProps = {}) {
               <button
                 key={item}
                 onClick={() => handleLinkClick(item.toLowerCase())}
-                className="text-[10px] lg:text-xs uppercase tracking-wider text-white/70 hover:text-white transition-colors duration-200 cursor-none clickable focus:outline-none font-mono"
+                className="text-xs lg:text-sm uppercase tracking-widest text-white/90 hover:text-white drop-shadow-md transition-colors duration-200 cursor-none clickable focus:outline-none font-medium"
               >
                 {item}
               </button>
